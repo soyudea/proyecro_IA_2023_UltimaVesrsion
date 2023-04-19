@@ -1,1 +1,2 @@
-# proyecro_IA_2023_UltimaVesrsion
+# Proyecto_IA_2023
+Crear Modelo para la prediccion de un ataque cardiáco
